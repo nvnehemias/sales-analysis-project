@@ -39,15 +39,14 @@ The dataset used is a publicly available retail sales dataset (Superstore-style 
 
 **Key Insights**
 
-Sales show clear seasonal patterns over time
-A small number of products generate a disproportionate share of total revenue
-Identifying top products can help improve inventory and business strategy decisions
+* Sales show clear seasonal patterns over time
+* A small number of products generate a disproportionate share of total revenue
+* Identifying top products can help improve inventory and business strategy decisions
 
 
 
 
 **Visualizations**
-
 The notebook includes:
 * Monthly sales trend line chart
 * Top 10 products by sales bar chart
