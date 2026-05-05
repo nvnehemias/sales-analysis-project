@@ -27,6 +27,7 @@ The dataset used is a publicly available retail sales dataset (Superstore-style 
 
 
 **Key Analysis Performed**
+
 Cleaned and formatted raw sales data for analysis
 Converted date fields to enable time-based analysis
 Analyzed monthly sales trends
