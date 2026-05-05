@@ -35,11 +35,15 @@ Identified top-performing products by total sales
 Created visualizations to highlight patterns and insights
 
 
+
+
 **Key Insights**
 
 Sales show clear seasonal patterns over time
 A small number of products generate a disproportionate share of total revenue
 Identifying top products can help improve inventory and business strategy decisions
+
+
 
 
 **Visualizations**
