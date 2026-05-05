@@ -47,6 +47,7 @@ The dataset used is a publicly available retail sales dataset (Superstore-style 
 
 
 **Visualizations**
+
 The notebook includes:
 * Monthly sales trend line chart
 * Top 10 products by sales bar chart
