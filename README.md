@@ -47,6 +47,7 @@ Identifying top products can help improve inventory and business strategy decisi
 
 
 **Visualizations**
+
 The notebook includes:
 * Monthly sales trend line chart
 * Top 10 products by sales bar chart
